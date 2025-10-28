@@ -57,6 +57,7 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "TESTE_2_APLICADO.C": "cpp"
+    "TESTE_2_APLICADO.C": "cpp",
+    "stdio.h": "c"
   }
 }
